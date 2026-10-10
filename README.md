@@ -1,1 +1,2 @@
 # dotfiles
+symlink using stow
