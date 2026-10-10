@@ -1,0 +1,8 @@
+set selection-clipboard clipboard
+set scroll-step 100
+
+# d = toggle single/dual page
+# a or s = best-fit
+
+set window-height 800
+set window-width 1000
